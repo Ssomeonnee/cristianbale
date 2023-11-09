@@ -1,0 +1,68 @@
+.rowlight{
+    margin-bottom: 32px;
+    margin-top: 32px;
+    margin-left: 32px;
+    padding:  32px ;
+    background: rgb(68, 68, 68); 
+    text-align: justify;
+    border-radius: 7px; /* 5px rounded corners */
+    color: rgb(207, 204, 204);
+}
+.rowblack{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    padding: 48px;
+    background: rgb(39, 39, 39); 
+    text-align: justify;
+    color: rgb(207, 204, 204); 
+}
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    margin: 8px;
+    padding: 16px;
+    width: 260px;
+    background-color: rgb(99, 99, 99);
+    justify-content: center;
+}
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    margin: 8px;
+    padding: 16px;
+    width: 260px;
+    background: rgb(68, 68, 68);
+    justify-content: center;
+}
+.img_response {
+    border-radius: 7px;
+    height: 240px;
+    width: 230px;
+}
+.img_films {
+    width: 350px;
+    height: 228px;
+}
+.text_section1 {
+    text-align: left;
+}
+.text_section2 {
+    text-align: center; 
+    border-radius: 32px;
+    margin: 32px;
+    padding: 32px; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background:  rgb(68, 68, 68); 
+}
+.headers {
+    text-align: center;
+    color: rgb(207, 204, 204);
+}
+
+
+
+
+
+
